@@ -15,7 +15,7 @@
 ||/
 |Mobo|ASROCK H310CM-HG4 DDR4 LGA1151|
 |CPU|Intel(R) Core(TM) i5-9100
-|Memory|12GB DDR4 (16Gx1) 2400MHz|
+|Memory|12GB DDR4 (8Gx1 AND 4GBx1) 2400MHz|
 |Storage|SATA KINGSTON 120GB|
 |Ethernet|Intel's AND Realtek's 2.5Gb Ethernet.
 
