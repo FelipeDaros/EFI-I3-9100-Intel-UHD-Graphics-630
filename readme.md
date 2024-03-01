@@ -1,6 +1,6 @@
 # Processador i5 91000 UHD GRAPHICS 630
-![overview-12 4](./photo.png)
-![overview-12 3](./Geekbench.png)
+![overview-12 3](./photo.png)
+![overview-12 4](./Geekbench.png)
 
 # EFI Details
 **Latest working macOS**: 14.3.1
