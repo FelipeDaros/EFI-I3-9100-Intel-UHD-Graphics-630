@@ -1,4 +1,4 @@
-# Processador i5 91000 UHD GRAPHICS 630
+# Processador i5 9100 UHD GRAPHICS 630
 ![overview-12 3](./photo.png)
 ![overview-12 4](./Geekbench.png)
 
